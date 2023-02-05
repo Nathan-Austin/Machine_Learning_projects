@@ -13,6 +13,8 @@ f1 score of 99.99
 
 I A-B tested using different classification models which were LinearRegression, DecisionTree and RandomForest.
 
+![image](https://user-images.githubusercontent.com/105222741/216841596-83da0579-a5bf-4464-a241-4555a9881f11.png)
+
 
 The data is from [this kaggle dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
