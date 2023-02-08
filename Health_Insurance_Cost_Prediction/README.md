@@ -7,6 +7,9 @@ With Pycaret, you can compare 10 or more models at the same time, I choose not t
 
 I have also included a GUI interface for the user to imput thier own data and calculate the price of a car.
 
+
+![Screenshot from 2023-02-08 15-33-33](https://user-images.githubusercontent.com/105222741/217563355-865c6180-233c-4288-b010-6ef32a2fb753.png)
+
 Run the notebook and then run the last cell. The GUI will open and then input the information and the model will return the your health insurance predicted cost.
 
 The Data used to train the model is from the USA and the price is in USD. Let us be thankful we dont have to pay such costs here in Germany.
