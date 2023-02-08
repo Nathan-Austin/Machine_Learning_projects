@@ -1,0 +1,6 @@
+
+		begin
+      f = addfile("/home/nathan/git_hub_repos/Machine_Learning_projects/Climate_Change/Climate_data/precipitation_data/full_data_monthly_v2022_2011_2020_05.nc","r")
+      print(f)
+		end
+    
